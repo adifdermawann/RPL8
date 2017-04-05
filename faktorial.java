@@ -53,7 +53,7 @@ x=j-3; y=i-3; n=x+y;
 if(n<=5)
 System.out.print ("*");
 else
-System.out.print (" ");
+System.out.print ("0");
 }
 }
 }
