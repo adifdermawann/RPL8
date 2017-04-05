@@ -7,8 +7,8 @@ DataInputStream input=new DataInputStream(System.in);
 int m,x,y,n;
  
 System.out.println("--------------------------------------------------");
-System.out.println("Nama : IRZIQ UHSI AMDIKEN");
-System.out.println("NPM  : 06.2009.1.04802");
+System.out.println("Nama : M Adif Dermawan");
+System.out.println("NIM  : 6706140113");
 System.out.println("--------------------------------------------------");
 System.out.print("inputkan jumlah baris : ");
 int br=Integer.parseInt(input.readLine());
